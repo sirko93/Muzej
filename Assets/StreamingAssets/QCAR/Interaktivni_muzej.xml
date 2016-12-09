@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="grizzlyBear_photofurl" size="10.000000 5.588542" />
+    <ImageTarget name="sabre-tooth-tiger-_1117360c" size="10.000000 6.260870" />
+    <ImageTarget name="Ostrvo_Vido" size="10.000000 7.500000" />
+    <ImageTarget name="sumarice" size="10.000000 6.687500" />
+    <ImageTarget name="cer" size="10.000000 7.500000" />
+    <ImageTarget name="cele-kula" size="10.000000 7.500000" />
+    <ImageTarget name="sinagoga" size="10.000000 6.700000" />
+    <ImageTarget name="Crkva-svetog-nikole" size="10.000000 6.700000" />
+    <ImageTarget name="Bali_Begova_Dzamija" size="10.000000 7.055000" />
+    <ImageTarget name="Narodno_Pozoriste" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
